@@ -6,7 +6,6 @@ venv/
 node_modules/
 bin/
 obj/
-packages/
 
 *.pkl
 *.joblib
@@ -14,11 +13,5 @@ packages/
 *.pt
 *.h5
 
-data/models/
-data/cache/
-data/temp/
-
 *.mdf
 *.ldf
-
-appsettings.Development.json
