@@ -1,0 +1,194 @@
+[
+  {
+    "question_ar": "ازاي التسجيل؟",
+    "question_en": "How do I register?",
+    "keywords_ar": ["التسجيل", "ازاي", "سجل", "انضم", "حساب جديد", "اعمل حساب", "ازاي اسجل"],
+    "keywords_en": ["register", "enroll", "sign up", "join", "create account", "how to register"],
+    "answer_ar": "التسجيل يتم عبر إنشاء حساب ثم التقديم على فرص الإرشاد المناسبة من صفحة التقديم.\nخطوات التسجيل:\n  1. اذهب لصفحة التسجيل\n  2. أدخل بريدك الإلكتروني وكلمة المرور\n  3. اختر دورك: مرشد أو متدرب\n  4. أكمل ملفك الشخصي (المجال، الدولة، المهارات)\n  5. تحقق من بريدك الإلكتروني لتأكيد الحساب",
+    "answer_en": "Register by creating an account and applying to suitable mentorship posts.\nSteps:\n  1. Go to the registration page\n  2. Enter your email and password\n  3. Choose your role: Mentor or Mentee\n  4. Complete your profile (domain, country, skills)\n  5. Verify your email to activate"
+  },
+  {
+    "question_ar": "كيف يعمل الإرشاد؟",
+    "question_en": "How does mentorship work?",
+    "keywords_ar": ["كيف يعمل", "الإرشاد", "آلية", "يشتغل ازاي", "عملية الإرشاد"],
+    "keywords_en": ["how mentorship works", "mentorship process", "workflow", "how it works"],
+    "answer_ar": "عملية الإرشاد:\n  1. المتدرب يبحث عن برامج مناسبة\n  2. يقدم طلب للبرنامج المختار\n  3. المرشد يراجع الطلب ويقبل أو يرفض\n  4. بعد القبول، يبدأ الإرشاد رسمياً\n  5. جلسات ومتابعة حسب الخطة\n  6. عند الانتهاء، الطرفين يقدمون تقييم",
+    "answer_en": "Mentorship process:\n  1. Mentee browses available programs\n  2. Submits application to chosen program\n  3. Mentor reviews and accepts/rejects\n  4. If accepted, mentorship begins\n  5. Sessions follow the agreed plan\n  6. Both parties submit feedback upon completion"
+  },
+  {
+    "question_ar": "كيف يتم التحقق من المرشد؟",
+    "question_en": "How is mentor verification done?",
+    "keywords_ar": ["التحقق", "توثيق المرشد", "توثيق", "verification", "موثق"],
+    "keywords_en": ["mentor verification", "verification", "mentor review", "validate mentor", "verified"],
+    "answer_ar": "يتم التحقق من المرشد عبر مراجعة الملف الشخصي والخبرة والتوصيات قبل إتاحة الظهور في المنصة.\nالعملية تشمل:\n  • مراجعة الملف والخبرة\n  • التحقق من LinkedIn\n  • مراجعة التقييمات\n  • بعد التحقق تظهر شارة التوثيق ✓",
+    "answer_en": "Verification involves reviewing the profile, experience, and recommendations.\nProcess:\n  • Profile and experience review\n  • LinkedIn verification\n  • Ratings review\n  • Verification badge ✓ appears after approval"
+  },
+  {
+    "question_ar": "مدة البرنامج قد ايه؟",
+    "question_en": "How long is the program?",
+    "keywords_ar": ["مدة البرنامج", "قد ايه", "مدة", "بيخلص امتى", "كام اسبوع"],
+    "keywords_en": ["how long", "program duration", "duration", "length of program", "weeks"],
+    "answer_ar": "مدة البرنامج تختلف حسب المرشد والمجال. عادة من 4 إلى 12 أسبوع.\nيمكنك معرفة المدة من صفحة البرنامج — كل برنامج بيوضح المدة والمتطلبات.",
+    "answer_en": "Program duration varies by mentor and field, typically 4-12 weeks.\nCheck the specific program page for exact duration and requirements."
+  },
+  {
+    "question_ar": "هل المنصة مجانية؟",
+    "question_en": "Is the platform free?",
+    "keywords_ar": ["مجاني", "فلوس", "تكلفة", "أسعار", "مجانية", "ببلاش"],
+    "keywords_en": ["free", "cost", "price", "pricing", "paid", "fees", "charge"],
+    "answer_ar": "نعم، المنصة مجانية بالكامل 🎉\nيمكنك التسجيل والتقديم على أي برنامج إرشادي بدون أي رسوم.",
+    "answer_en": "Yes, the platform is completely free! 🎉\nYou can register and apply to any mentorship program without any fees."
+  },
+  {
+    "question_ar": "إزاي أسلم التاسك؟",
+    "question_en": "How do I submit a task?",
+    "keywords_ar": ["أسلم", "تسليم", "أرفع", "submit", "الديدلاين", "تسليم التاسك"],
+    "keywords_en": ["submit task", "submit assignment", "upload work", "deadline", "hand in"],
+    "answer_ar": "خطوات تسليم التاسك:\n  1. اذهب لصفحة الـ Roadmap في برنامجك\n  2. اختر التاسك المطلوب\n  3. ارفع شغلك قبل الـ Deadline\n  4. المرشد هيراجعه ويديك feedback\n\n⚠️ تأكد من التسليم قبل الموعد النهائي!",
+    "answer_en": "How to submit a task:\n  1. Go to the Roadmap page in your program\n  2. Select the required task\n  3. Upload your work before the deadline\n  4. Your mentor will review and give feedback\n\n⚠️ Make sure to submit before the deadline!"
+  },
+  {
+    "question_ar": "ازاي أحذف حسابي؟",
+    "question_en": "How do I delete my account?",
+    "keywords_ar": ["أحذف", "حذف", "إلغاء حساب", "مسح حسابي"],
+    "keywords_en": ["delete account", "remove account", "cancel account", "deactivate"],
+    "answer_ar": "يمكنك حذف حسابك من الإعدادات → الحساب → حذف الحساب.\nتواصل مع الدعم إذا واجهت مشكلة.",
+    "answer_en": "You can delete your account from Settings → Account → Delete Account.\nContact support if you face issues."
+  },
+  {
+    "question_ar": "ازاي أغير المرشد؟",
+    "question_en": "How do I change my mentor?",
+    "keywords_ar": ["أغير المرشد", "مرشد تاني", "غيرلي المرشد", "أبدل المرشد"],
+    "keywords_en": ["change mentor", "switch mentor", "different mentor", "new mentor"],
+    "answer_ar": "يمكنك التقديم على برنامج إرشادي جديد مع مرشد آخر.\nإذا كنت في إرشاد حالي:\n  1. اذهب لصفحة الإرشاد\n  2. اضغط على إنهاء/إلغاء الإرشاد\n  3. قدم على برنامج جديد",
+    "answer_en": "You can apply to a new mentorship program with a different mentor.\nIf you're in an active mentorship:\n  1. Go to the mentorship page\n  2. Click End/Cancel mentorship\n  3. Apply to a new program"
+  },
+  {
+    "question_ar": "ايه المجالات المتاحة؟",
+    "question_en": "What fields/domains are available?",
+    "keywords_ar": ["المجالات", "مجالات", "تخصصات", "fields", "المجالات المتاحة"],
+    "keywords_en": ["domains", "fields", "available domains", "categories", "specializations"],
+    "answer_ar": "المنصة تغطي 4 مجالات رئيسية:\n  • Software Engineering (هندسة البرمجيات)\n  • AI & Data Science (الذكاء الاصطناعي وعلوم البيانات)\n  • Design (التصميم)\n  • Product & Business (المنتجات والأعمال)\n\nكل مجال يحتوي على تخصصات فرعية وتقنيات متعددة.",
+    "answer_en": "The platform covers 4 main domains:\n  • Software Engineering\n  • AI & Data Science\n  • Design\n  • Product & Business\n\nEach domain has multiple subdomains and technologies."
+  },
+  {
+    "question_ar": "ازاي الغي الإرشاد؟",
+    "question_en": "How do I cancel a mentorship?",
+    "keywords_ar": ["الغي", "إلغاء", "الغي الإرشاد", "اوقف الإرشاد", "كانسل"],
+    "keywords_en": ["cancel mentorship", "end mentorship", "stop mentorship", "terminate"],
+    "answer_ar": "لإلغاء إرشاد حالي:\n  1. اذهب لصفحة إرشاداتي\n  2. اختر الإرشاد المراد إلغاؤه\n  3. اضغط على 'إلغاء الإرشاد'\n  4. اكتب سبب الإلغاء\n\n⚠️ الإلغاء نهائي ولا يمكن التراجع عنه.",
+    "answer_en": "To cancel an active mentorship:\n  1. Go to 'My Mentorships' page\n  2. Select the mentorship to cancel\n  3. Click 'Cancel Mentorship'\n  4. Provide a cancellation reason\n\n⚠️ Cancellation is permanent and cannot be undone."
+  },
+  {
+    "question_ar": "ازاي أعمل برنامج إرشادي؟",
+    "question_en": "How do I create a mentorship program?",
+    "keywords_ar": ["أعمل برنامج", "أنشئ برنامج", "اعمل برنامج", "برنامج جديد", "اضيف برنامج"],
+    "keywords_en": ["create program", "new program", "make program", "add program", "start program"],
+    "answer_ar": "لإنشاء برنامج إرشادي (للمرشدين فقط):\n  1. اذهب لصفحة 'برامجي'\n  2. اضغط على 'إنشاء برنامج جديد'\n  3. أدخل العنوان والوصف\n  4. حدد المجال والمتطلبات\n  5. حدد السعة ومدة البرنامج\n  6. أضف أسئلة التقديم (اختياري)\n  7. انشر البرنامج!",
+    "answer_en": "To create a mentorship program (mentors only):\n  1. Go to 'My Programs'\n  2. Click 'Create New Program'\n  3. Enter title and description\n  4. Set domain and requirements\n  5. Set capacity and duration\n  6. Add screening questions (optional)\n  7. Publish the program!"
+  },
+  {
+    "question_ar": "ازاي اتابع مرشد؟",
+    "question_en": "How do I follow a mentor?",
+    "keywords_ar": ["اتابع", "فولو", "تابع مرشد", "متابعة"],
+    "keywords_en": ["follow", "follow mentor", "follow someone", "following"],
+    "answer_ar": "لمتابعة مرشد:\n  1. اذهب لصفحة ملف المرشد\n  2. اضغط على زر 'متابعة'\n  3. هيظهرلك تحديثات وبرامج المرشد\n\nيمكنك إلغاء المتابعة في أي وقت.",
+    "answer_en": "To follow a mentor:\n  1. Go to the mentor's profile page\n  2. Click the 'Follow' button\n  3. You'll see updates and programs from the mentor\n\nYou can unfollow at any time."
+  },
+  {
+    "question_ar": "ازاي أعمل تقييم؟",
+    "question_en": "How do I give feedback?",
+    "keywords_ar": ["تقييم", "أقيم", "اعمل تقييم", "فيدباك", "رأي"],
+    "keywords_en": ["give feedback", "rate", "review", "feedback", "rating"],
+    "answer_ar": "لتقييم المرشد بعد انتهاء الإرشاد:\n  1. اذهب لصفحة الإرشاد المكتمل\n  2. اضغط على 'تقديم تقييم'\n  3. اختر التقييم (1-5 نجوم)\n  4. اكتب تعليقك عن التجربة\n  5. اضغط إرسال\n\nالتقييم يساعد المتدربين الآخرين في اختيار المرشد المناسب! ⭐",
+    "answer_en": "To give feedback after a mentorship ends:\n  1. Go to the completed mentorship page\n  2. Click 'Submit Feedback'\n  3. Choose your rating (1-5 stars)\n  4. Write your comment about the experience\n  5. Click Submit\n\nYour feedback helps other mentees find the right mentor! ⭐"
+  },
+  {
+    "question_ar": "ايه الـ Roadmap؟",
+    "question_en": "What is a Roadmap?",
+    "keywords_ar": ["roadmap", "رودماب", "خريطة طريق", "خطة التعلم", "ال roadmap"],
+    "keywords_en": ["roadmap", "learning path", "learning plan", "study plan"],
+    "answer_ar": "الـ Roadmap هو خطة التعلم اللي المرشد بيعملها لبرنامجه.\nبيحتوي على:\n  • خطوات التعلم بالترتيب\n  • المهام (Tasks) المطلوبة\n  • الموارد والمراجع\n  • المواعيد النهائية\n\nتقدر تلاقي الـ Roadmap في صفحة البرنامج بعد القبول.",
+    "answer_en": "A Roadmap is the learning plan a mentor creates for their program.\nIt contains:\n  • Ordered learning steps\n  • Required tasks\n  • Resources and references\n  • Deadlines\n\nYou can find the Roadmap on the program page after acceptance."
+  },
+  {
+    "question_ar": "ازاي أغير ملفي الشخصي؟",
+    "question_en": "How do I edit my profile?",
+    "keywords_ar": ["أغير ملفي", "تعديل الملف", "ملفي الشخصي", "بروفايل", "اعدل البروفايل"],
+    "keywords_en": ["edit profile", "update profile", "change profile", "profile settings"],
+    "answer_ar": "لتعديل ملفك الشخصي:\n  1. اضغط على صورتك أو اسمك في الأعلى\n  2. اختر 'الملف الشخصي' أو 'الإعدادات'\n  3. عدل المعلومات المطلوبة (الاسم، المجال، المهارات، الصورة)\n  4. اضغط 'حفظ التغييرات'",
+    "answer_en": "To edit your profile:\n  1. Click your avatar or name in the top bar\n  2. Select 'Profile' or 'Settings'\n  3. Edit your info (name, domain, skills, photo)\n  4. Click 'Save Changes'"
+  },
+  {
+    "question_ar": "ايه حالات الطلب؟",
+    "question_en": "What are application statuses?",
+    "keywords_ar": ["حالات الطلب", "حالة طلبي", "حالة التقديم", "مقبول", "مرفوض", "معلق"],
+    "keywords_en": ["application status", "accepted", "rejected", "pending", "application states"],
+    "answer_ar": "حالات الطلب:\n  • 🟡 Pending (معلق) — المرشد لم يراجع الطلب بعد\n  • ✅ Accepted (مقبول) — تم قبولك في البرنامج\n  • ❌ Rejected (مرفوض) — لم يتم قبول الطلب\n\nيمكنك متابعة حالة طلباتك من صفحة 'طلباتي'.",
+    "answer_en": "Application statuses:\n  • 🟡 Pending — Mentor hasn't reviewed yet\n  • ✅ Accepted — You're accepted into the program\n  • ❌ Rejected — Application was not accepted\n\nTrack your applications on the 'My Applications' page."
+  },
+  {
+    "question_ar": "ايه حالات الإرشاد؟",
+    "question_en": "What are mentorship statuses?",
+    "keywords_ar": ["حالات الإرشاد", "حالة الإرشاد", "نشط", "مكتمل", "ملغي"],
+    "keywords_en": ["mentorship status", "active", "completed", "cancelled", "mentorship states"],
+    "answer_ar": "حالات الإرشاد:\n  • 🟢 Active (نشط) — الإرشاد جاري حالياً\n  • ✅ Completed (مكتمل) — تم الإنتهاء من البرنامج بنجاح\n  • ❌ Cancelled (ملغي) — تم إلغاء الإرشاد\n\nيمكنك متابعة إرشاداتك من صفحة 'إرشاداتي'.",
+    "answer_en": "Mentorship statuses:\n  • 🟢 Active — Mentorship is ongoing\n  • ✅ Completed — Program finished successfully\n  • ❌ Cancelled — Mentorship was cancelled\n\nTrack your mentorships on the 'My Mentorships' page."
+  },
+  {
+    "question_ar": "ازاي أتواصل مع المرشد؟",
+    "question_en": "How do I communicate with my mentor?",
+    "keywords_ar": ["أتواصل", "تواصل", "رسالة", "كلم المرشد", "اتكلم"],
+    "keywords_en": ["communicate", "contact mentor", "message", "talk to mentor", "reach"],
+    "answer_ar": "بعد قبولك في برنامج إرشادي، يمكنك التواصل مع مرشدك عبر:\n  • الـ Classroom الخاص بالبرنامج\n  • جلسات الإرشاد المجدولة\n  • التعليقات على المنشورات\n\nالتواصل يكون داخل المنصة فقط.",
+    "answer_en": "After being accepted into a program, you can communicate with your mentor via:\n  • The program's Classroom\n  • Scheduled mentorship sessions\n  • Comments on posts\n\nAll communication happens within the platform."
+  },
+  {
+    "question_ar": "المنصة بتدعم ايه اللغات؟",
+    "question_en": "What languages does the platform support?",
+    "keywords_ar": ["لغات", "عربي", "انجليزي", "اللغة"],
+    "keywords_en": ["languages", "arabic", "english", "language support"],
+    "answer_ar": "المنصة تدعم اللغة العربية والإنجليزية.\nالشات بوت بيفهم الرسائل باللغتين وبيرد بنفس لغة السؤال 🌍",
+    "answer_en": "The platform supports Arabic and English.\nThe chatbot understands messages in both languages and responds in the same language 🌍"
+  },
+  {
+    "question_ar": "ازاي أحفظ برنامج؟",
+    "question_en": "How do I save a program?",
+    "keywords_ar": ["أحفظ", "حفظ برنامج", "سيف", "bookmark"],
+    "keywords_en": ["save program", "bookmark", "save post", "favourite"],
+    "answer_ar": "لحفظ برنامج إرشادي:\n  1. اذهب لصفحة البرنامج\n  2. اضغط على أيقونة الحفظ (🔖)\n  3. هيتحفظ في قائمة 'المحفوظات'\n\nتقدر ترجعله في أي وقت من صفحة المحفوظات.",
+    "answer_en": "To save a mentorship program:\n  1. Go to the program page\n  2. Click the save icon (🔖)\n  3. It'll be saved to your 'Saved' list\n\nAccess saved programs anytime from the Saved page."
+  },
+  {
+    "question_ar": "ازاي أقدم شكوى ضد مرشد؟",
+    "question_en": "How do I report or complain about a mentor?",
+    "keywords_ar": ["شكوى", "أشتكي", "بلاغ", "أبلغ", "report", "شكوى ضد", "مرشد وحش", "مينتور سيء"],
+    "keywords_en": ["complaint", "complain", "report mentor", "bad mentor", "harassment", "misconduct", "rude mentor"],
+    "answer_ar": "لتقديم شكوى ضد مرشد:\n  1. اذهب لصفحة بروفايل المرشد\n  2. اضغط على زر 'Report' أو 'تقديم بلاغ'\n  3. اكتب تفاصيل الموقف\n  4. اضغط 'إرسال'\n\nفريق الإدارة هيراجع البلاغ ويتواصل معاك على الإيميل المسجل 🔒",
+    "answer_en": "To report or complain about a mentor:\n  1. Go to the mentor's profile page\n  2. Click the 'Report' button\n  3. Describe the incident in detail\n  4. Click 'Submit'\n\nThe admin team will review the report and contact you via your registered email 🔒"
+  },
+  {
+    "question_ar": "نسيت الباسورد، اعمل ايه؟",
+    "question_en": "I forgot my password, what should I do?",
+    "keywords_ar": ["نسيت", "الباسورد", "كلمة السر", "reset", "forgot", "باسورد", "password"],
+    "keywords_en": ["forgot password", "reset password", "lost password", "can't login", "recover account"],
+    "answer_ar": "لاستعادة كلمة المرور:\n  1. اذهب لصفحة تسجيل الدخول\n  2. اضغط 'نسيت كلمة المرور؟'\n  3. أدخل بريدك الإلكتروني\n  4. افتح الإيميل واضغط على رابط إعادة التعيين\n  5. اكتب كلمة مرور جديدة",
+    "answer_en": "To reset your password:\n  1. Go to the login page\n  2. Click 'Forgot password?'\n  3. Enter your email address\n  4. Open the email and click the reset link\n  5. Set a new password"
+  },
+  {
+    "question_ar": "ازاي اتواصل مع الدعم؟",
+    "question_en": "How do I contact support?",
+    "keywords_ar": ["دعم", "support", "تواصل", "مساعدة", "help", "اتواصل مع الدعم", "technical support"],
+    "keywords_en": ["contact support", "help", "support team", "customer service", "assistance", "technical support"],
+    "answer_ar": "للتواصل مع فريق الدعم:\n  • ابعت إيميل على mentora.help@gmail.com\n  • أو استخدم زر 'المساعدة' أو 'الدعم' في المنصة\n  • فريق الدعم هيرد عليك قريب",
+    "answer_en": "To contact our support team:\n  • Email us at mentora.help@gmail.com\n  • Or use the 'Help' or 'Support' button on the platform\n  • Our team will get back to you soon"
+  },
+  {
+    "question_ar": "ازاي ابقى مرشد؟",
+    "question_en": "How to become a mentor?",
+    "keywords_ar": ["ابقى مرشد", "أبقى مرشد", "اكون مرشد", "أكون مرشد", "اسجل كمرشد", "عايز أبقى mentor", "عايز ابقى mentor", "ازاي ابقى مرشد", "كيف اصير مرشد", "أصبح مرشد"],
+    "keywords_en": ["become a mentor", "become mentor", "how to be a mentor", "be a mentor", "register as mentor", "sign up as mentor", "join as mentor", "want to mentor", "i want to be a mentor", "how to become a mentor"],
+    "answer_ar": "لتصبح مرشداً على المنصة:\n  1. سجل حساب جديد واختر 'مرشد' كدور\n  2. أكمل ملفك الشخصي بالكامل\n  3. أضف خبراتك ومهاراتك التقنية\n  4. اختر مجالك وتخصصاتك الفرعية\n  5. أنشئ برنامج إرشادي وحدد المتطلبات\n  6. انتظر طلبات المتدربين وابدأ الإرشاد!\n\nالمنصة مجانية بالكامل للمرشدين 🎉",
+    "answer_en": "How to become a mentor (currently 1500 mentors on the platform):\n  1. Register a new account and choose 'Mentor' as your role\n  2. Complete your profile in full\n  3. Add your experience and technical expertise\n  4. Select your domain and subdomains\n  5. Create a mentorship program and define requirements\n  6. Wait for mentee applications and start mentoring!\n\nThe platform is completely free for mentors 🎉"
+  }
+]

@@ -1,0 +1,27 @@
+# Minimal requirements for the AI assistant (project-wide requirements may be larger)
+fastapi
+uvicorn
+httpx
+pydantic
+pydantic-settings
+pandas
+sqlalchemy
+pyodbc
+scikit-learn
+joblib
+transformers
+torch
+numpy
+matplotlib
+seaborn
+streamlit
+lightgbm
+scipy
+pytest
+requests
+pypdf
+python-docx
+python-pptx
+sentence-transformers
+easyocr
+Pillow

@@ -1,0 +1,309 @@
+{
+  "manifest_version": 1,
+  "created_at": "2026-05-12T00:00:00Z",
+  "preprocessing_version": "2026.05.12",
+  "artifact_version": 1,
+  "model_metadata": {
+    "model_type": "LightGBMRanker",
+    "training_timestamp": "2026-05-12T00:00:00Z",
+    "training_framework": "lightgbm",
+    "model_version": "1.0.0"
+  },
+  "feature_cols": [
+    "skill_coverage_score",
+    "subdomain_similarity",
+    "mentor_quality_score",
+    "mentor_weighted_rating",
+    "interaction_score_log",
+    "interaction_count_log",
+    "experience_gap_abs",
+    "mentor_more_experienced",
+    "experience_match_bucket",
+    "soft_gap_score",
+    "same_country",
+    "popularity_log",
+    "mentor_follower_count_log",
+    "mentor_open_post_count_log",
+    "mentor_domain_match",
+    "cf_score"
+  ],
+  "scale_cols": [
+    "skill_coverage_score",
+    "subdomain_similarity",
+    "mentor_quality_score",
+    "mentor_weighted_rating",
+    "interaction_score_log",
+    "interaction_count_log",
+    "experience_gap_abs",
+    "soft_gap_score",
+    "popularity_log",
+    "mentor_follower_count_log",
+    "mentor_open_post_count_log",
+    "cf_score"
+  ],
+  "binary_feature_cols": {
+    "mentor_more_experienced": 0,
+    "experience_match_bucket": -1,
+    "same_country": 0,
+    "mentor_domain_match": 0
+  },
+  "feature_groups": {
+    "binary": [
+      "mentor_more_experienced",
+      "same_country",
+      "mentor_domain_match"
+    ],
+    "eligibility": [
+      "mentor_more_experienced",
+      "experience_match_bucket"
+    ],
+    "cf": [
+      "cf_score"
+    ],
+    "popularity": [
+      "popularity_log",
+      "mentor_follower_count_log",
+      "mentor_open_post_count_log"
+    ],
+    "ml_only": [
+      "skill_coverage_score",
+      "subdomain_similarity",
+      "mentor_quality_score",
+      "mentor_weighted_rating",
+      "interaction_score_log",
+      "interaction_count_log",
+      "experience_gap_abs",
+      "soft_gap_score"
+    ],
+    "business_rule": [
+      "mentor_more_experienced",
+      "experience_match_bucket",
+      "same_country",
+      "mentor_domain_match"
+    ]
+  },
+  "feature_type_map": {
+    "skill_coverage_score": "ratio",
+    "subdomain_similarity": "ratio",
+    "mentor_quality_score": "numeric",
+    "mentor_weighted_rating": "numeric",
+    "interaction_score_log": "numeric",
+    "interaction_count_log": "numeric",
+    "experience_gap_abs": "numeric",
+    "mentor_more_experienced": "binary",
+    "experience_match_bucket": "categorical",
+    "soft_gap_score": "numeric",
+    "same_country": "binary",
+    "popularity_log": "numeric",
+    "mentor_follower_count_log": "numeric",
+    "mentor_open_post_count_log": "numeric",
+    "mentor_domain_match": "binary",
+    "cf_score": "numeric"
+  },
+  "optional_features": [
+    "cf_score",
+    "popularity_log",
+    "mentor_follower_count_log",
+    "mentor_open_post_count_log"
+  ],
+  "required_features": [
+    "skill_coverage_score",
+    "subdomain_similarity",
+    "mentor_quality_score",
+    "mentor_weighted_rating",
+    "interaction_score_log",
+    "interaction_count_log",
+    "experience_gap_abs",
+    "mentor_more_experienced",
+    "experience_match_bucket",
+    "soft_gap_score",
+    "same_country",
+    "mentor_domain_match"
+  ],
+  "feature_bounds": {
+    "skill_coverage_score": {
+      "min": 0.0,
+      "max": 1.0,
+      "type": "ratio"
+    },
+    "subdomain_similarity": {
+      "min": 0.0,
+      "max": 1.0,
+      "type": "ratio"
+    },
+    "mentor_quality_score": {
+      "min": 1.0,
+      "max": 5.0,
+      "type": "rating"
+    },
+    "mentor_weighted_rating": {
+      "min": 1.0,
+      "max": 5.0,
+      "type": "rating"
+    },
+    "interaction_score_log": {
+      "min": 0.0,
+      "max": null,
+      "type": "log-transformed"
+    },
+    "interaction_count_log": {
+      "min": 0.0,
+      "max": null,
+      "type": "log-transformed"
+    },
+    "experience_gap_abs": {
+      "min": 0.0,
+      "max": 4.0,
+      "type": "gap"
+    },
+    "mentor_more_experienced": {
+      "min": 0,
+      "max": 1,
+      "type": "binary"
+    },
+    "experience_match_bucket": {
+      "min": -1,
+      "max": 2,
+      "type": "categorical"
+    },
+    "soft_gap_score": {
+      "min": 0.0,
+      "max": 1.0,
+      "type": "score"
+    },
+    "same_country": {
+      "min": 0,
+      "max": 1,
+      "type": "binary"
+    },
+    "popularity_log": {
+      "min": 0.0,
+      "max": null,
+      "type": "log-transformed"
+    },
+    "mentor_follower_count_log": {
+      "min": 0.0,
+      "max": null,
+      "type": "log-transformed"
+    },
+    "mentor_open_post_count_log": {
+      "min": 0.0,
+      "max": null,
+      "type": "log-transformed"
+    },
+    "mentor_domain_match": {
+      "min": 0,
+      "max": 1,
+      "type": "binary"
+    },
+    "cf_score": {
+      "min": -1.0,
+      "max": 1.0,
+      "type": "score"
+    }
+  },
+  "scaler_feature_order": [
+    "skill_coverage_score",
+    "subdomain_similarity",
+    "mentor_quality_score",
+    "mentor_weighted_rating",
+    "interaction_score_log",
+    "interaction_count_log",
+    "experience_gap_abs",
+    "soft_gap_score",
+    "popularity_log",
+    "mentor_follower_count_log",
+    "mentor_open_post_count_log",
+    "cf_score"
+  ],
+  "scaler_type": "MinMaxScaler",
+  "scaler_metadata": {
+    "scaling_method": "MinMaxScaler",
+    "feature_range": [0, 1],
+    "copy": true,
+    "binary_features_excluded": true,
+    "grouped_scaling": true,
+    "scaling_groups": {
+      "cf": ["cf_score"],
+      "popularity": ["popularity_log", "mentor_follower_count_log", "mentor_open_post_count_log"],
+      "interaction": ["interaction_score_log", "interaction_count_log"],
+      "quality": ["mentor_quality_score", "mentor_weighted_rating"],
+      "scores": ["skill_coverage_score", "subdomain_similarity", "soft_gap_score", "experience_gap_abs"]
+    }
+  },
+  "dataset_fingerprint": {
+    "row_count": 0,
+    "schema_hash": "",
+    "feature_signature": "",
+    "training_timestamp": "2026-05-12T00:00:00Z",
+    "data_source": "SQL Server database (mentorship_applications, mentorships, follows)",
+    "split_config": {
+      "train_end": "2025-12-31T23:59:59Z",
+      "valid_end": "2026-02-28T23:59:59Z",
+      "test_start": "2026-03-01T00:00:00Z"
+    }
+  },
+  "training_metadata": {
+    "n_samples": 0,
+    "n_positive": 0,
+    "n_negative": 0,
+    "positive_ratio": 0.0,
+    "n_unique_mentees": 0,
+    "n_unique_mentors": 0,
+    "cv_folds": 5,
+    "negative_sampling_ratio": 9,
+    "leakage_detection_applied": true,
+    "leakage_columns_removed": []
+  },
+  "evaluation_metrics": {
+    "valid": {
+      "ndcg@10": 0.0,
+      "hitrate@10": 0.0,
+      "mrr@10": 0.0,
+      "groups": 0
+    },
+    "test": {
+      "ndcg@10": 0.0,
+      "hitrate@10": 0.0,
+      "mrr@10": 0.0,
+      "groups": 0
+    }
+  },
+  "reranking_metadata": {
+    "follow_rerank_ratio": 3,
+    "eval_k": 10,
+    "min_eval_candidates": 5,
+    "skill_first_weights": {
+      "pred_score": 0.8,
+      "skill_coverage": 0.1,
+      "subdomain": 0.06,
+      "domain_match": 0.04
+    },
+    "soft_business_boosts": {
+      "high_rating_same_subdomain": 1.015,
+      "open_programs": 1.02,
+      "completed_programs": 1.008,
+      "followed": 1.003,
+      "active_popular_same_subdomain": 1.005
+    }
+  },
+  "inference_compatibility": {
+    "min_candidates_required": 5,
+    "cf_confidence_threshold": 0.3,
+    "cf_sparse_user_fallback": true,
+    "allow_empty_recommendations": false,
+    "feature_alignment_required": true,
+    "scaler_validation_required": true,
+    "feature_order_critical": true
+  },
+  "notes": {
+    "is_following_removed": "CRITICAL: is_following completely removed from training (May 2026) due to 100% correlation with labels. Feature leakage - was proxy for whether user applied.",
+    "feature_leakage_prevention": "Regex patterns detect future_*, post_split_*, after_split* columns. Static blacklist enforced at training time.",
+    "temporal_filtering": "interaction_score_log and popularity_log computed with event_time alignment - only interactions/followers before application date included.",
+    "cf_embeddings_cleaned": "CF embeddings no longer include follows - only content engagement (likes, comments, saves, shares) + enrollments.",
+    "binary_feature_handling": "Binary features (mentor_more_experienced, same_country, mentor_domain_match) NOT scaled by MinMaxScaler. Preserved as [0,1].",
+    "optional_features_defaults": "Optional features (cf_score, popularity_*) default to 0.0 if missing during inference. NOT treated as NaN.",
+    "reranking_stability": "Reranking uses stable normalization with runtime validation. Single-candidate groups handled specially. All-equal scores sorted by creation_time.",
+    "popularity_bias_control": "Popularity signals soft-weighted only. Skill coverage remains primary. Diversity injection applied in reranking."
+  }
+}

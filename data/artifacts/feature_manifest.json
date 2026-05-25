@@ -1,0 +1,23 @@
+{
+  "feature_cols": [
+    "skill_coverage_score",
+    "subdomain_similarity",
+    "mentor_quality_score",
+    "mentor_weighted_rating",
+    "interaction_score_log",
+    "interaction_count_log",
+    "experience_gap_abs",
+    "mentor_more_experienced",
+    "experience_match_bucket",
+    "soft_gap_score",
+    "same_country",
+    "popularity_log",
+    "mentor_follower_count_log",
+    "mentor_open_post_count_log",
+    "mentor_domain_match",
+    "cf_score"
+  ],
+  "follow_rerank_ratio": 3,
+  "eval_k": 10,
+  "min_eval_candidates": 5
+}

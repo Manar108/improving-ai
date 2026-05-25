@@ -1,0 +1,24 @@
+subdomain_id,domain_id,name
+1,1,Backend Development
+2,1,Frontend Development
+3,1,Full Stack Development
+4,1,Mobile Development
+5,1,DevOps & Cloud
+6,1,System Design
+7,2,Machine Learning
+8,2,Deep Learning
+9,2,Computer Vision
+10,2,Natural Language Processing
+11,2,Data Analysis
+12,2,Data Science
+13,2,Data Engineering
+14,3,UI/UX Design
+15,3,Product Design
+16,3,Graphic Design
+17,3,Motion Design
+18,3,Branding
+19,4,Product Management
+20,4,Business Analysis
+21,4,Project Management
+22,4,Career Coaching
+23,4,Entrepreneurship

@@ -1,0 +1,155 @@
+technology_id,subdomain_id,name
+1,1,Node.js
+2,1,.NET / ASP.NET Core
+3,1,Spring Boot
+4,1,Django
+5,1,Flask
+6,1,Laravel
+7,1,Express.js
+8,1,FastAPI
+9,1,NestJS
+10,2,HTML
+11,2,CSS
+12,2,JavaScript
+13,2,TypeScript
+14,2,React
+15,2,Angular
+16,2,Vue.js
+17,2,Next.js
+18,2,Nuxt.js
+19,2,SASS / SCSS
+20,2,Tailwind CSS
+21,2,Bootstrap
+22,3,MERN Stack
+23,3,MEAN Stack
+24,3,LAMP Stack
+25,3,Django + React
+26,3,Next.js Full Stack
+27,3,REST APIs
+28,3,GraphQL
+29,4,Flutter
+30,4,React Native
+31,4,Android (Kotlin)
+32,4,Android (Java)
+33,4,iOS (Swift)
+34,4,Xamarin
+35,4,Ionic
+36,5,Docker
+37,5,Kubernetes
+38,5,AWS
+39,5,Azure
+40,5,Google Cloud Platform
+41,5,CI/CD Pipelines
+42,5,Jenkins
+43,5,GitHub Actions
+44,5,GitLab CI
+45,5,Terraform
+46,5,Ansible
+47,5,Nginx
+48,6,High Level Design (HLD)
+49,6,Low Level Design (LLD)
+50,6,Microservices Architecture
+51,6,REST Architecture
+52,6,Event-Driven Architecture
+53,6,Design Patterns
+54,6,Scalability & Load Balancing
+55,6,"Caching (Redis, Memcached)"
+56,6,"Message Queues (Kafka, RabbitMQ)"
+57,7,Python
+58,7,Scikit-learn
+59,7,TensorFlow
+60,7,PyTorch
+61,7,Keras
+62,7,XGBoost
+63,7,LightGBM
+64,7,CatBoost
+65,8,TensorFlow
+66,8,PyTorch
+67,8,Keras
+68,8,CNNs
+69,8,RNNs
+70,8,Transformers
+71,9,OpenCV
+72,9,TensorFlow
+73,9,PyTorch
+74,9,YOLO
+75,9,MediaPipe
+76,10,NLTK
+77,10,SpaCy
+78,10,Hugging Face Transformers
+79,10,BERT
+80,10,GPT Models
+81,11,Python
+82,11,Pandas
+83,11,NumPy
+84,11,SQL
+85,11,Excel
+86,11,Power BI
+87,11,Tableau
+88,11,Google Sheets
+89,12,Python
+90,12,R
+91,12,Jupyter Notebook
+92,12,Matplotlib
+93,12,Seaborn
+94,12,SQL
+95,12,Machine Learning Libraries
+96,13,Apache Spark
+97,13,Apache Airflow
+98,13,Hadoop
+99,13,BigQuery
+100,13,Snowflake
+101,13,Redshift
+102,13,Kafka
+103,13,ETL Pipelines
+104,14,Figma
+105,14,Adobe XD
+106,14,Sketch
+107,14,InVision
+108,14,Zeplin
+109,14,FigJam
+110,15,Figma
+111,15,Adobe XD
+112,15,Sketch
+113,15,User Journey Mapping
+114,15,Wireframing
+115,15,Prototyping
+116,16,Photoshop
+117,16,Illustrator
+118,16,InDesign
+119,16,Canva
+120,17,After Effects
+121,17,Premiere Pro
+122,17,Blender
+123,17,Cinema 4D
+124,18,Illustrator
+125,18,Photoshop
+126,18,Brand Identity Systems
+127,18,Logo Design Tools
+128,19,Jira
+129,19,Confluence
+130,19,Notion
+131,19,Trello
+132,19,Miro
+133,19,Product Roadmaps
+134,19,OKRs
+135,20,Excel
+136,20,Power BI
+137,20,Tableau
+138,20,SQL
+139,20,BPMN
+140,20,SWOT Analysis
+141,21,Jira
+142,21,Trello
+143,21,Asana
+144,21,Monday.com
+145,21,ClickUp
+146,22,Resume Review Tools
+147,22,Interview Preparation Frameworks
+148,22,LinkedIn Optimization
+149,22,Career Planning Models
+150,23,Lean Canvas
+151,23,Business Model Canvas
+152,23,Pitch Deck Tools
+153,23,Market Research Tools
+154,23,Financial Modeling
